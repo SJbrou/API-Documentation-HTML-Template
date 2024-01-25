@@ -105,7 +105,7 @@ pre{
     top: 0;
     left: 0;
     bottom: 0;
-    width: 300px;
+    width: 320px;
     box-sizing: border-box;
     background-color: #f4f5f8;
     overflow-x: hidden;
@@ -118,7 +118,7 @@ pre{
 }
 .left-menu .info {
     position: relative;
-    font-size: 14px;
+    font-size: 1x;
     margin-top: 5px;
     color: #777A7A;
 }
@@ -138,13 +138,14 @@ pre{
     display: inline-block;
     max-width: 70%;
     vertical-align: middle;
+    border-radius: 5px;
 }
 .content-logo span{
     display: inline-block;
     margin-left: 10px;
     vertical-align: middle;
     color: #323F4C;
-    font-size: 1.1em;
+    font-size: 1.2em;
 }
 .content-menu{
     margin: 2em auto 2em;
